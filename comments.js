@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // create a route for /comments
 // send back some json
 // listen on port 3000
